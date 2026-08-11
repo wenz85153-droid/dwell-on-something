@@ -8,8 +8,8 @@
   "icons": [
     {
       "src": "/Image__1785051232443__6.jpg",
-      "sizes": "192×192",
-      "type": "image/png"
+      "sizes": "any",
+      "type": "image/jpeg"
     }
   ]
 }
